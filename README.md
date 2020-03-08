@@ -15,4 +15,6 @@ https://www.coursera.org/learn/paytech
 
 https://www.udacity.com/course/blockchain-developer-nanodegree--nd1309
 
+https://www.udemy.com/course/master-ethereum-and-solidity-programming-with-real-world-apps/
+
 https://blog.coinbase.com/highereducation-c4fb40ecbc0e
